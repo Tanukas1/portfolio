@@ -1,7 +1,5 @@
-import Image from "next/image";
+import { redirect } from "next/navigation";
 
-export default function About() {
-  return (
-   <h1>About Us</h1>
-  );
+export default function AboutPage() {
+  redirect("/#about");
 }
