@@ -52,8 +52,8 @@ export const PORTFOLIO_DATA = {
     status: "Actively Building & Accepting Projects",
     // Configurable social & professional profiles
     socials: {
-      github: "https://github.com/tanukashyap",
-      linkedin: "https://www.linkedin.com/in/tanukashyap/",
+      github: "https://github.com/Tanukas1",
+      linkedin: "https://www.linkedin.com/in/tanu-kashyap123/",
       email: "mailto:tanukashyap889@gmail.com",
     },
     bio: [
